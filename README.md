@@ -1,2 +1,3 @@
 # Disaster-Response
-Disaster Response Project was about
+
+[POSTER PROJECT.pdf](https://github.com/JoydanR/Disaster-Response/files/14085859/POSTER.PROJECT.pdf)
